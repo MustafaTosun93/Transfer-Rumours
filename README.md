@@ -3,5 +3,5 @@ The aim of "Transfer Rumour" is that measuring the confidence of the people of t
 Because of false reports in the media, people do not take seriously the claims of the new transfer.
 
 # Requirements
- - Tweepy to collect tweets from "Tweets"
+ - Tweepy to collect tweets from "Twitter"
  - Weka to analyse
