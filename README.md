@@ -1,5 +1,5 @@
 # Transfer-Rumours
-    The aim of "Transfer Rumour" is that measuring the trust of the people to transfer news in the social media.
+        The aim of "Transfer Rumour" is that measuring the trust of the people to transfer news in the social media.
     Because of false reports in the media people do not take the claims of the new transfer seriously
  
  
